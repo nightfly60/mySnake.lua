@@ -51,6 +51,6 @@ lua snake.lua
 
 A few screenshots of the game in action:
 
-| Gameplay | Game Over | Scoreboard |
+| Starting Menu | Gameplay | Game Over |
 |-----------|------------|-------------|
 | ![Gameplay](https://i.imgur.com/Pt3iKTs.png) | ![Game Over](https://i.imgur.com/7G1o5SU.png) | ![Scoreboard](https://i.imgur.com/bTjnLqw.png) |
