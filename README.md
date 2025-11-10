@@ -1,7 +1,7 @@
 # 🐍 Snake Game in Lua
 
 A lightweight **Snake game** written entirely in **Lua**, playable directly in the terminal.  
-Move around, eat the stars ⭐, and try not to crash into the walls or yourself!
+Move around, eat the stars ⭐, and try not to crash into the walls or yourself !
 
 ---
 
@@ -39,7 +39,7 @@ This project was made for **fun and learning purposes**, to explore:
 ## 🚀 How to Run
 
 Make sure you have **Lua** installed (version 5.1+).  
-Then simply run the script in your terminal:
+Then simply run the script in your terminal :
 
 ```bash
 lua snake.lua
@@ -49,7 +49,7 @@ lua snake.lua
 
 ## 📸 Preview
 
-A few screenshots of the game in action:
+A few screenshots of the game in action :
 
 | Starting Menu | Gameplay | Game Over |
 |-----------|------------|-------------|
